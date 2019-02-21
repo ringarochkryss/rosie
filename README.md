@@ -1,18 +1,9 @@
-
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+#FrontEnd html5 Css Bootstrap3 Personal Resume site
 
 
-Hi there! Welcome to Cloud9 IDE!
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+Student Code along making a site for Rosie promiting herself as a web developer-
+and ofc can be altered. This time I have written it pretty much exactly as the teacher,
+so it's a copy. But It's a good way to learn.
 
-Happy coding!
-The Cloud9 IDE team
+Interestning teqniques: forms: hover-effects, progressbars and timelines! 
