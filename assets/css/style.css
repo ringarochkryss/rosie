@@ -337,12 +337,47 @@ footer .cv-pdf i:hover {
     margin-bottom: 30px;
 }
 
+/*--------------------------------------------Contact*/
+
+.bg-color-contact{
+    background-color:#fff;
+    margin-top:2em;
+}
+
+.contact-heading{
+    font-family:"Exo", sans-serif;
+    font-weight:300;
+    margin-top:25px;
+    margin-bottom:20px;
+}
+
+.center-form {
+    padding-top:10px;
+    margin: 0 auto; /*horizontally center the content*/
+    max-width: 70%;
+}
+
+ /*detta var mest för att visa att man kan göra så måste inte för att klara provet... -felstavningen bjuder jag på!*/
+button[type="sumbit"]{
+margin-top: 15px;
+margin-bottom:240px;
+background-color:#e67e22;
+color:#fafafa;
+}
 
 /*--------------------------------------------MediaQ area*/
+                            
 @media(min-width:992px){
     .section-column {
     padding:0 30px;
     float: none;
     display:table-cell;
     }  
+}
+/*when vued on smaller devices*/
+.center-form {        
+    padding-top:30px;
+    min-height: 24px;
+    margin: 0 auto; /*horizontally center the content*/
+    max-width: 80%;
 }
